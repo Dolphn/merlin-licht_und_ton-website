@@ -1,0 +1,233 @@
+<!DOCTYPE html><html lang="de-DE"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Merlin Licht &amp; Ton - Karneval 2020</title><meta content="Merlin Licht &amp; Ton - Karneval 2020" property="og:title"><meta content="website" property="og:type"><meta content="/Bilder/Karneval-2020/desktop/" property="og:url"><style>
+                            .untrustedWidgetFrame {
+                            width           : 300px;
+                            height          : 200px;
+                            border          : 0;
+                            }
+                        </style><script>
+                            window.beng = window.beng || {};
+
+                            window.beng.env = {
+                            language : "de",
+                            country : "DE",
+                            mode : "deploy",
+                            context : "page",
+                            pageId : "000004022743",
+                            scope : "",
+                            isProtected: false,
+                            navigationText : "Karneval 2020",
+                            instance : "1",
+                            common_prefix : "/.cm4all/stcfb",
+                            design_common : "/.cm4all/stcfb/beng/designs/",
+                            design_template : "sys/cm_dh_068",
+                            path_design : "/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/",
+                            path_res : "/.cm4all/stcfb/res/",
+                            path_bengres : "/.cm4all/stcfb/beng/res/",
+                            masterDomain : "",
+                            preferredDomain : "",
+                            preprocessHostingUri : function(uri) {
+                            
+                                return uri || "";
+                            
+                            },
+                            hideEmptyAreas: true
+                            };
+                            </script><script src="https://merlin-online.info/.cm4all/stcfb/cm4all-beng-proxy/beng-proxy.js"></script><link type="text/css" rel="stylesheet" href="https://d5mv4w6u6ab0j.cloudfront.net/pool/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<link type="text/css" rel="stylesheet" href="https://merlin-online.info/.cm4all/stcfb/res/js/lib/css/popup-guistrap.css" /><link rel="stylesheet" type="text/css" href="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/libcm4all-js-widget/3.85.41/css/widget-runtime.css" />
+<link rel="stylesheet" type="text/css" href="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/beng-editor/2.15.149+hotfix1/css/deploy.css" />
+<link rel="stylesheet" type="text/css" href="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/libcm4all-js-widget/3.85.41/css/slideshow-common.css" />
+<script src="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/jquery-1.7/jquery.js"></script><script src="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/prototype-1.7.3/prototype.js"></script><script src="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/jslib/1.0.2/js/legacy.js"></script><script src="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/libcm4all-js-widget/3.85.41/js/widget-runtime.js"></script>
+<script src="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/libcm4all-js-widget/3.85.41/js/slideshow-common.js"></script>
+<script src="https://merlin-online.info/.cm4all/stcfb/.cm4all/res/static/beng-editor/2.15.149+hotfix1/js/deploy.js"></script>
+<script type="text/javascript" src="https://merlin-online.info/.cm4all/stcfb/.cm4all/uro/assets/js/uro-min.js"></script><script>
+                            (function() {
+                                var linkElem = document.querySelector('link[href$="guistrap.css"], link[href$="guistrap.min.css"]');
+                                if (linkElem) {
+                                    linkElem.disabled = true;
+                                    setTimeout(
+                                            function() {
+                                                linkElem.disabled = false ;
+                                            },
+                                            7500
+                                    )
+                                }
+                            })();
+                        </script><script>
+                            window.cm_ensureFloatingSpace = function() {
+                                jQuery(".cm_widget.cm_widget_float_left, .cm_widget.cm_widget_float_right").each(function (i, w) {
+                                    w = jQuery(w);
+                                    if (w.attr("data-original-width")) {
+                                        w.css("width", w.attr("data-original-width")); // reset to original width
+                                        w.removeAttr("data-original-width");
+                                    }
+                                    if (w.closest(".cm-container-small, .cm-container-medium").length > 0) {
+                                        if (w.parent().innerWidth() - w.outerWidth() < 150 ||
+                                            (w.attr("id").indexOf("FLMNGO_cm4all_com_widgets_Hamweather") >= 0 && w.outerWidth() < 150)) {
+                                            if (!w.attr("data-original-width")) {
+                                                w.attr("data-original-width", w[0].style.width); // store original width
+                                            }
+                                            w.css("width", "100%");
+                                        }
+                                    }
+                                });
+                            };
+                            jQuery(window).resize(window.cm_ensureFloatingSpace);
+                            jQuery(document).ready(window.cm_ensureFloatingSpace);
+                        </script><script>
+                      jQuery(document).ready(function() {
+                        var as = jQuery(".cm_anchor");
+                        as.each(function() {
+                          var a = jQuery(this);
+                          var t = a.attr("title");
+                          a.hover(
+                            function() {a.removeAttr("title");},
+                            function() {if(t) a.attr({title: t});});});
+                      });
+                    </script><meta name="viewport" content="width=device-width, initial-scale=1"><link type="text/css" href="https://merlin-online.info/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/css/main.css" rel="stylesheet"><link type="text/css" href="https://merlin-online.info/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/css/responsive.css" rel="stylesheet"><link type="text/css" href="https://merlin-online.info/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/css/cm-templates-global-style.css" rel="stylesheet"><script type="text/javascript" language="javascript" src="https://merlin-online.info/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/js/doubletaptogo.js"></script><script type="text/javascript" language="javascript" src="https://merlin-online.info/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/js/cm_template-focus-point.js"></script><script type="text/javascript" language="javascript" src="https://merlin-online.info/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/js/cm-templates-global-script.js"></script><!--[if IE]>
+        	<link rel="stylesheet" type="text/css" href="/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/css/ie.css" />
+        <![endif]--><!--[if lte IE 8]>
+        	<link rel="stylesheet" type="text/css" href="/.cm4all/stcfb/beng/designs/data/sys/cm_dh_068/css/ie8.css" />
+        <![endif]--><!--$Id: template.xsl 1832 2012-03-01 10:37:09Z dominikh $--><link href="https://merlin-online.info/.cm4all/handler.php/vars.css?v=" type="text/css" rel="stylesheet"><script>
+                            jQuery(document).ready(function () {
+                                if (navigator.userAgent && navigator.userAgent.indexOf("Android 2.3") != -1) {
+                                    jQuery(".cm-background-effects").css("position", "absolute"); // (PBT: #4187)
+                                }
+                            });
+                            </script><style  type="text/css">.cm-logo {background-image: url("../../../.cm4all/uproc.php/0/.merlinlogo.png/picture-1200?_=1712ae48396");
+        background-position: 50% 50%;
+background-size: auto auto;
+background-repeat: no-repeat;
+      }</style><script  type="text/javascript">window.cmLogoWidgetId = "STRATP_cm4all_com_widgets_Logo_27051630";
+            window.cmLogoGetCommonWidget = function (){
+                return new cm4all.Common.Widget({
+            base    : "/.cm4all/e/ServeStatic/",
+            session : "",
+            frame   : "",
+            path    : "STRATP_cm4all_com_widgets_Logo_27051630"
+        })
+            };
+            window.logoConfiguration = {
+                "cm-logo-x" : "50%",
+        "cm-logo-y" : "50%",
+        "cm-logo-v" : "2.0",
+        "cm-logo-w" : "auto",
+        "cm-logo-h" : "auto",
+        "cm-logo-di" : "sys/cm_dh_068",
+        "cm-logo-u" : "uro-service://",
+        "cm-logo-k" : "%7B%22serviceId%22%3A%220%22%2C%22path%22%3A%22%2F%22%2C%22name%22%3A%22merlinlogo.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22size%22%3A89134%2C%22start%22%3A%221712ae48396%22%2C%22width%22%3A1024%2C%22height%22%3A150%7D",
+        "cm-logo-bc" : "",
+        "cm-logo-ln" : "/Startseite/desktop/index.php/",
+        "cm-logo-ln$" : "home",
+        "cm-logo-hi" : false
+        ,
+        _logoBaseUrl : "uro-service:\/\/",
+        _logoPath : "%7B%22serviceId%22%3A%220%22%2C%22path%22%3A%22%2F%22%2C%22name%22%3A%22merlinlogo.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22size%22%3A89134%2C%22start%22%3A%221712ae48396%22%2C%22width%22%3A1024%2C%22height%22%3A150%7D"
+        };
+            jQuery(document).ready(function() {
+                var href = (beng.env.mode == "deploy" ? "/" : "/Startseite/desktop/index.php/");
+                jQuery(".cm-logo").wrap("<a style='text-decoration: none;' href='&quot;&#32;+&#32;href&#32;+&#32;&quot;'></a>");
+            });
+            </script><style id="cm_table_styles"></style><style id="cm_background_queries"></style><script type="application/x-cm4all-cookie-consent" data-code=""></script></head><body class=" device-desktop cm-deploy cm-deploy-342"><div class="cm-background"></div><div class="cm-background-video"></div><div class="cm-background-effects"></div><div class="noneditmode page_wrapper"><div id="head_wrapper"><div id="keyvisual" class="cm-kv-0 box cm_can_be_empty cm-template-keyvisual__media"></div><div id="logo_wrapper" class="cm-logo box cm_can_be_empty"> </div><div id="navigation_wrapper" class="clearfix corner"><div id="cm_navigation" class="navi"><ul id="cm_mainnavigation"><li id="cm_navigation_pid_4022658"><a title="Startseite" href="../../../Startseite/index.html" class="cm_anchor">Startseite</a></li><li id="cm_navigation_pid_4022657" class="cm_has_subnavigation"><a title="Firmenprofil" href="../../../Firmenprofil/index.html" class="cm_anchor">Firmenprofil</a><ul class="cm_subnavigation" id="cm_subnavigation_pid_4022657"><li id="cm_navigation_pid_4022737"><a title="Team" href="../../../Firmenprofil/Team/index.html" class="cm_anchor">Team</a></li><li id="cm_navigation_pid_4022738"><a title="Referenzen" href="../../../Firmenprofil/Referenzen/index.html" class="cm_anchor">Referenzen</a></li></ul></li><li id="cm_navigation_pid_4022656" class="cm_has_subnavigation"><a title="Leistungen" href="../../../Leistungen/index.html" class="cm_anchor">Leistungen</a><ul class="cm_subnavigation" id="cm_subnavigation_pid_4022656"><li id="cm_navigation_pid_4022739"><a title="Diskkockey" href="../../../Leistungen/Diskkockey/index.html" class="cm_anchor">Diskkockey</a></li><li id="cm_navigation_pid_4022740"><a title="Beleuchtung" href="../../../Leistungen/Beleuchtung/index.html" class="cm_anchor">Beleuchtung</a></li><li id="cm_navigation_pid_4022741"><a title="Beschallung" href="../../../Leistungen/Beschallung/index.html" class="cm_anchor">Beschallung</a></li><li id="cm_navigation_pid_4022742"><a title="Eventorga" href="../../../Leistungen/Eventorga/index.html" class="cm_anchor">Eventorga</a></li></ul></li><li id="cm_navigation_pid_4025093" class="cm_current cm_has_subnavigation"><a title="Bilder" href="../../index.html" class="cm_anchor">Bilder</a><ul class="cm_subnavigation" id="cm_subnavigation_pid_4025093"><li id="cm_navigation_pid_4022743" class="cm_current"><a title="Karneval 2020" href="../index.html" class="cm_anchor">Karneval 2020</a></li><li id="cm_navigation_pid_4053360"><a title="Friends" href="../../Friends/index.html" class="cm_anchor">Friends</a></li><li id="cm_navigation_pid_4053361"><a title="Impressionen" href="../../Impressionen/index.html" class="cm_anchor">Impressionen</a></li></ul></li><li id="cm_navigation_pid_4022744"><a title="Downloads" href="../../../Downloads/index.html" class="cm_anchor">Downloads</a></li><li id="cm_navigation_pid_4022655"><a title="Kontakt" href="../../../Kontakt/index.html" class="cm_anchor">Kontakt</a></li><li id="cm_navigation_pid_4022654"><a title="Impressum" href="../../../Impressum/index.html" class="cm_anchor">Impressum</a></li></ul></div></div><div id="title_wrapper" class="corner cm_can_be_empty"><h1 class="title cm_can_be_empty cm-templates-heading__title" style=""> <br></h1><h2 class="subtitle cm_can_be_empty cm-templates-heading__subtitle" style=""> </h2></div></div><div id="container_content"><div id="content_wrapper" class="cm-template-content"><div class="content_main_dho cm-template-content__main cm-templates-text" data-cm-hintable="yes"><p>Karneval 2020                                                                                                                                                                     <br></p><div style="clear: both;" id="cm_bottom_clearer" contenteditable="false"></div></div></div><div id="content_sidebar" class="cm-templates-sidebar-wrapper cm_can_be_empty"><div id="widgetbar_site_1" class="sidebar cm_can_be_empty" data-cm-hintable="yes"><p><br></p><p> </p></div><div id="widgetbar_page_1" class="sidebar cm_can_be_empty" data-cm-hintable="yes"><p> </p></div><div id="widgetbar_site_2" class="sidebar cm_can_be_empty" data-cm-hintable="yes"><p><br></p></div><div id="widgetbar_page_2" class="sidebar cm_can_be_empty" data-cm-hintable="yes"><p> </p></div></div><div id="footer_wrapper" class="cm-templates-footer cm_can_be_empty corner"><div id="footer" class="cm_can_be_empty" data-cm-hintable="yes"><a href="../../../Impressum/index.html" class="cm_anchor">IMPRESSUM / Datenschutzerklärung<br></a></div></div></div></div><div xmlns="http://www.w3.org/1999/xhtml" class="cm-smart-access-button"><div class="scaler"><i class="fa fa-th" aria-hidden="true"></i></div></div><div xmlns="http://www.w3.org/1999/xhtml" class="cm-smart-access-menu num-buttons-4"><div class="protector"></div><div class="tiles"><a href="mailto:info@merlin-online.info" target=""><div class="tile mail"><div class="icon"><i class="fa fa-mail" aria-hidden="true"></i></div><div class="title">E-Mail</div></div></a><a href="tel:02233935006" target=""><div class="tile call"><div class="icon"><i class="fa fa-call" aria-hidden="true"></i></div><div class="title">Anruf</div></div></a><a href="../../../Startseite/index.html" target=""><div class="tile about"><div class="icon"><i class="fa fa-about" aria-hidden="true"></i></div><div class="title">Infos</div></div></a><a href="http://www.facebook.de/merlinlut" target="_blank"><div class="tile facebook"><div class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></div><div class="title">Facebook</div></div></a></div></div><div  style="display: none;" id="keyvisualWidgetVideosContainer"></div><style  type="text/css">.cm-kv-0-1 {
+background-color: ;
+background-position: 50% 50%;
+background-size: auto 100%;
+background-repeat: no-repeat;
+}
+.cm-kv-0-2 {
+background-color: ;
+background-position: 50% 0%;
+background-size: 200% auto;
+background-repeat: no-repeat;
+}
+@media(min-width: 100px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-200?_=1716545a010");}}@media(min-width: 100px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-400?_=1716545a010");}}@media(min-width: 200px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-400?_=1716545a010");}}@media(min-width: 200px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-800?_=1716545a010");}}@media(min-width: 400px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-800?_=1716545a010");}}@media(min-width: 400px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-1200?_=1716545a010");}}@media(min-width: 600px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-1200?_=1716545a010");}}@media(min-width: 600px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-1600?_=1716545a010");}}@media(min-width: 800px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-1600?_=1716545a010");}}@media(min-width: 800px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-1{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.ton1.jpg/picture-2600?_=1716545a010");}}@media(min-width: 100px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-200?_=1716545a7e0");}}@media(min-width: 100px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-400?_=1716545a7e0");}}@media(min-width: 200px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-400?_=1716545a7e0");}}@media(min-width: 200px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-800?_=1716545a7e0");}}@media(min-width: 400px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-800?_=1716545a7e0");}}@media(min-width: 400px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-1200?_=1716545a7e0");}}@media(min-width: 600px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-1200?_=1716545a7e0");}}@media(min-width: 600px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-1600?_=1716545a7e0");}}@media(min-width: 800px), (min-resolution: 72dpi), (-webkit-min-device-pixel-ratio: 1) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-1600?_=1716545a7e0");}}@media(min-width: 800px), (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 2) {.cm-kv-0-2{background-image:url("../../../.cm4all/uproc.php/0/Katbilder/.Kat1n.jpg/picture-2600?_=1716545a7e0");}}</style><style  type="text/css">
+			#keyvisual {
+				overflow: hidden;
+			}
+			.kv-video-wrapper {
+				width: 100%;
+				height: 100%;
+				position: relative;
+			}
+			</style><script  type="text/javascript">
+				jQuery(document).ready(function() {
+					function moveTempVideos(slideshow, isEditorMode) {
+						var videosContainer = document.getElementById('keyvisualWidgetVideosContainer');
+						if (videosContainer) {
+							while (videosContainer.firstChild) {
+								var div = videosContainer.firstChild;
+								var divPosition = div.className.substring('cm-kv-0-tempvideo-'.length);
+								if (isEditorMode && parseInt(divPosition) > 1) {
+									break;
+								}
+								videosContainer.removeChild(div);
+								if (div.nodeType == Node.ELEMENT_NODE) {
+									var pos = '';
+									if (slideshow) {
+										pos = '-' + divPosition;
+									}
+									var kv = document.querySelector('.cm-kv-0' + pos);
+									if (kv) {
+										if (!slideshow) {
+											var wrapperDiv = document.createElement("div"); 
+											wrapperDiv.setAttribute("class", "kv-video-wrapper");
+											kv.insertBefore(wrapperDiv, kv.firstChild);
+											kv = wrapperDiv;
+										}
+										while (div.firstChild) {
+											kv.appendChild(div.firstChild);
+										}
+										var video = kv.querySelector("video");
+										if (video) {
+											var attr = video.getAttribute("autoplay");
+											if (attr !== null) {
+												video.play();  /* Chrome does not evaluate autoplay-attribute of inserted video-elements */
+											}
+										}
+										if (!slideshow) {
+											break;
+										}
+									}
+								}
+							}
+						}
+					}
+
+					function kvClickAction(mode, href) {
+						if (mode == 'internal') {
+							window.location.href = href;
+						} else if (mode == 'external') {
+							var a = document.createElement('a');
+							a.href = href;
+							a.target = '_blank';
+							a.rel = 'noreferrer noopener';
+							a.click();
+						}
+					}
+
+					var keyvisualElement = jQuery("[cm_type=keyvisual]");
+					if(keyvisualElement.length == 0){
+						keyvisualElement = jQuery("#keyvisual");
+					}
+					if(keyvisualElement.length == 0){
+						keyvisualElement = jQuery("[class~=cm-kv-0]");
+					}
+				
+					cm4all.slides.createHTML(keyvisualElement, [
+						
+				'<div class="cm-kv-0-1 cm-slides-addon" style="width:100%;height:100%;"></div>'
+			,
+				'<div class="cm-kv-0-2 cm-slides-addon" style="width:100%;height:100%;"></div>'
+			
+					]);
+					moveTempVideos(true, false);
+					cm4all.slides.createInstance(keyvisualElement, {
+						effect : "",
+						effectDuration : 1,
+						imageDuration : 0,
+						showProgress : false,
+						showArrows : false,
+						showDots : false
+					});
+				
+			});
+		</script></body></html>

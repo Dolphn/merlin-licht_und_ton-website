@@ -1,0 +1,63 @@
+<script type="text/javascript">
+window.cm4all.widgets.register( '/Startseite/index.php/', '', 'STRATP_com_cm4all_wdn_social_FacebookPage_27052864', 'STRATP_com_cm4all_wdn_social_FacebookPage_27052864');
+</script>
+		<script>
+	window.cm4all.widgets[ 'STRATP_com_cm4all_wdn_social_FacebookPage_27052864'].ready = (function() {
+		var deferred = jQuery.Deferred().resolveWith( window.cm4all.widgets[ 'STRATP_com_cm4all_wdn_social_FacebookPage_27052864']);
+		var ready = function ready( handler) {
+			deferred.done( handler);
+		};
+		return deferred.promise( ready);
+	})();
+</script>
+<div
+  id="C_STRATP_com_cm4all_wdn_social_FacebookPage_27052864__-base"
+  class="cm-widget-facebook-page"
+  style=" text-align: center; overflow-x: auto; overflow-y: hidden;"
+>
+  
+<script type="text/javascript">
+
+(function($) {
+  window.Common.requireLibrary('//connect.facebook.net/de_DE/sdk.js#xfbml=0&version=v2.6');
+  var initStatus = window.____FacebookInitStatus || (window.____FacebookInitStatus = new $.Deferred());
+  var prevInit = window.fbAsyncInit;
+  window.fbAsyncInit = function() {
+    initStatus.resolve();
+
+    if (typeof prevInit == 'function') {
+      prevInit.call(this);
+    }
+  };
+
+  var readyHandler = function() {
+    var $container = $('#C_STRATP_com_cm4all_wdn_social_FacebookPage_27052864__-base');
+
+    var buildFBDiv = function(width) {
+      // create element
+      var div = document.createElement('div');
+      div.className = 'fb-page';
+      div.setAttribute('data-href', 'https://www.facebook.com/merlinlut');
+      div.setAttribute('data-width', width || 180);
+      div.setAttribute('data-hide-cover', 'false');
+      div.setAttribute('tabs', 'timeline');
+      div.setAttribute('data-show-facepile', 'false');
+      //div.setAttribute('data-show-posts', 'false');
+      $container[0].appendChild(div);
+
+
+      initStatus.done(function() {
+        
+        // load and render
+        window.FB.XFBML.parse($container[0]);
+      });
+    };
+
+                buildFBDiv($container.width());
+      };
+
+  window.cm4all.widgets['STRATP_com_cm4all_wdn_social_FacebookPage_27052864'].ready(readyHandler);
+
+})(jQuery);
+</script>
+</div>
